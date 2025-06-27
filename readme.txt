@@ -28,8 +28,7 @@ Frontend:
 - Font Awesome 
 
 Инфраструктура:
-- Werkzeug 
-- Gunicorn 
+- Werkzeug  
 
  Установка и запуск
 
